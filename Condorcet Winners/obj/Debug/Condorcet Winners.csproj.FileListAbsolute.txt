@@ -1,0 +1,15 @@
+C:\Users\billx\Desktop\PROG 8010\Week 11\Condorcet Winners\Condorcet Winners\bin\Debug\Condorcet Winners.exe.config
+C:\Users\billx\Desktop\PROG 8010\Week 11\Condorcet Winners\Condorcet Winners\bin\Debug\Condorcet Winners.exe
+C:\Users\billx\Desktop\PROG 8010\Week 11\Condorcet Winners\Condorcet Winners\bin\Debug\Condorcet Winners.pdb
+C:\Users\billx\Desktop\PROG 8010\Week 11\Condorcet Winners\Condorcet Winners\obj\Debug\Condorcet Winners.csprojAssemblyReference.cache
+C:\Users\billx\Desktop\PROG 8010\Week 11\Condorcet Winners\Condorcet Winners\obj\Debug\MainWindow.g.cs
+C:\Users\billx\Desktop\PROG 8010\Week 11\Condorcet Winners\Condorcet Winners\obj\Debug\App.g.cs
+C:\Users\billx\Desktop\PROG 8010\Week 11\Condorcet Winners\Condorcet Winners\obj\Debug\Condorcet Winners_MarkupCompile.cache
+C:\Users\billx\Desktop\PROG 8010\Week 11\Condorcet Winners\Condorcet Winners\obj\Debug\Condorcet Winners_MarkupCompile.lref
+C:\Users\billx\Desktop\PROG 8010\Week 11\Condorcet Winners\Condorcet Winners\obj\Debug\MainWindow.baml
+C:\Users\billx\Desktop\PROG 8010\Week 11\Condorcet Winners\Condorcet Winners\obj\Debug\Condorcet Winners.g.resources
+C:\Users\billx\Desktop\PROG 8010\Week 11\Condorcet Winners\Condorcet Winners\obj\Debug\Condorcet_Winners.Properties.Resources.resources
+C:\Users\billx\Desktop\PROG 8010\Week 11\Condorcet Winners\Condorcet Winners\obj\Debug\Condorcet Winners.csproj.GenerateResource.cache
+C:\Users\billx\Desktop\PROG 8010\Week 11\Condorcet Winners\Condorcet Winners\obj\Debug\Condorcet Winners.csproj.CoreCompileInputs.cache
+C:\Users\billx\Desktop\PROG 8010\Week 11\Condorcet Winners\Condorcet Winners\obj\Debug\Condorcet Winners.exe
+C:\Users\billx\Desktop\PROG 8010\Week 11\Condorcet Winners\Condorcet Winners\obj\Debug\Condorcet Winners.pdb
